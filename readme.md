@@ -1,5 +1,9 @@
+# UTrace
+Tracing module. Tracing to file/tcp/serial port, different tracing levels, c-style logs with placeholders, for now only linux compatible.
+
 ## Compiling a static library and linking to example program:
 ./clr.sh
+
 
 # Configuration examples
 ## tracing to opened tcp port
